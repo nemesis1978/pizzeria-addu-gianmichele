@@ -647,6 +647,7 @@ p + p { margin-top: 1rem; }
 .hours { width: 100%; border-collapse: collapse; font-size: .94rem; }
 .hours td { padding: .48rem 0; border-bottom: 1px dashed var(--border); color: var(--ink-soft); }
 .hours td:first-child { font-weight: 600; color: var(--ink); }
+.hours td.hours-closed { color: var(--rosso); font-weight: 700; }
 .hours tr:last-child td { border-bottom: none; }
 .hours-note { font-size: .84rem; color: var(--muted); }
 

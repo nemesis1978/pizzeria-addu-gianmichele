@@ -36,7 +36,7 @@ pizzeria-addu-gianmichele/
 | Plus code | GF6V+J7 Polla |
 
 ### Orari — verifica importante
-L'allegato riportava solo "Chiude alle ore 00". L'apertura alle **19:00 per tutti i giorni** è stata **verificata direttamente sulla scheda Maps**: tutti e 7 i giorni riportano "Dalle 19 alle 00". Se il titolare fa aperture diverse (es. pranzo festivo, chiusura settimanale), correggere la tabella in `index.html` e il blocco `openingHoursSpecification` nello Schema.org.
+L'allegato riportava solo "Chiude alle ore 00". Gli orari nel sito sono: **tutti i giorni 19:00 – 00:00, tranne il mercoledì (chiuso, giorno di riposo)**. L'eccezione del mercoledì è stata **confermata direttamente dal titolare** il 16/10/2026 (Maps mostra ancora il mercoledì come aperto: segnalare a Google per correggere il profilo). Se ci sono altre variazioni stagionali, correggere la tabella in `index.html` e il blocco `openingHoursSpecification` nello Schema.org.
 
 ### Menù
 Il menù completo è ora **incluso nel sito**: 71 pizze con ingredienti, 6 fritti, 7 antipasti, 9 birre, 4 bibite (97 voci totali), divise per categoria con filtri a chip. Estratto dal menù Google Maps incollato da Egix il 16/10/2026 e confrontato voce per voce: tutti i conteggi sono verificati (71+6+7+9+4 = 97).
